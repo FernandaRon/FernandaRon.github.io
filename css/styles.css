@@ -9,6 +9,16 @@ h1 {
     color: #E76385 ; text-align: center;
 	text-shadow: 3px 2px #8CDDE8;
 }
+
+.me {
+	 display: block;
+     margin-left: auto;
+     margin-right: auto;
+	 border-radius: 40%;
+	height:180px;
+	width: 160px;
+}
+
 h2 { 
     text-align: center; color: #9BB5B8;
     font-size: 18px;
@@ -23,6 +33,9 @@ h2 {
 	width: 150px;
 }
 .food {
-	height: 120px;
-	width: 150px;
+	height: 150px;
+	width: 120px;
+}
+.myeyes {
+	color:#E76385;
 }
