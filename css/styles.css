@@ -3,6 +3,7 @@ body {
 	background-color: #EFF3CD;
 }
 
+
 h1 {
 	border-bottom-style: solid;
 	border-bottom-color: #EEA651;
@@ -20,7 +21,8 @@ h1 {
 }
 
 h2 { 
-    text-align: center; color: #9BB5B8;
+    text-align: center;
+    color: #9BB5B8;
     font-size: 18px;
 }
 
@@ -38,4 +40,9 @@ h2 {
 }
 .myeyes {
 	color:#E76385;
+}
+
+p {
+	color :#54707E;
+text-align: justify;
 }
