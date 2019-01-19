@@ -46,3 +46,6 @@ p {
 	color :#54707E;
 text-align: justify;
 }
+pre {
+	text-align: justify-all;
+}
